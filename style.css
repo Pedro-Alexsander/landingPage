@@ -1,4 +1,12 @@
 body{
     font-family: 'Overpass', sans-serif;
-    /* font-family: 'Ubuntu', sans-serif; */
+    font-family: 'Ubuntu', sans-serif;
+}
+header{
+    background: ;
+}
+nav{
+    max-width: 1440px;
+    width: 100%;
+
 }
